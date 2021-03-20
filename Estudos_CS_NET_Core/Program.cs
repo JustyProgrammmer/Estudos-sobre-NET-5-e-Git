@@ -6,7 +6,7 @@ namespace Estudos_CS_NET_Core
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Iniciando os estudos...");
+            Console.WriteLine("Iniciando os estudos... (NET 5, Git, ...)");
         }
     }
 }
